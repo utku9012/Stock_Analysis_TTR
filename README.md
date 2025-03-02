@@ -3,19 +3,19 @@ This project demonstrates how to obtain historical stock data from Yahoo Finance
 
 ## Steps
 
-1. Install Required Packages
+### 1. Install Required Packages
 
-2. Fetch Historical Stock Data
+### 2. Fetch Historical Stock Data
 
-3. Data Preprocessing and Visualization
+### 3. Data Preprocessing and Visualization
 
-4. Calculate Technical Indicators using TTR
-    -SMA (Simple Moving Average)
-    -RSI (Relative Strength Index)
-    -ADX (Average Directional Index)
-    -MACD (Moving Average Convergence Divergence)
-    -Bollinger Bands
+### 4. Calculate Technical Indicators using TTR
+        -SMA (Simple Moving Average)
+        -RSI (Relative Strength Index)
+        -ADX (Average Directional Index)
+        -MACD (Moving Average Convergence Divergence)
+        -Bollinger Bands
 
-5. Generate Buy, Sell, and Hold Signals
+### 5. Generate Buy, Sell, and Hold Signals
 
-6. Plot All Signals seperatly and also on the Same Window
+### 6. Plot All Signals seperatly and also on the Same Window
