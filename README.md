@@ -1,7 +1,7 @@
-Stock Analysis with R - Sasa Polyester
-This project demonstrates how to obtain historical stock data from Yahoo Finance from Turkish Stock Market, preprocess and visualize the data, and use technical indicators to generate buy, sell, and hold signals for Sasa Polyester stock. It uses the TTR package to create indicators such as SMA, RSI, ADX, MACD, and Bollinger Bands. 
+# Stock Analysis with R - Sasa Polyester
+This project demonstrates how to obtain historical stock data from Yahoo Finance from Turkish Stock Market, preprocess and visualize the data, and use technical indicators to generate buy, sell, and hold signals for Sasa Polyester stock. It uses the TTR package to create indicators such as SMA, RSI, ADX, MACD, and Bollinger Bands. All buy and sell signals are displayed on the same window for easy comparison and decision making.
 
-Steps
+## Steps
 
 1. Install Required Packages
 
